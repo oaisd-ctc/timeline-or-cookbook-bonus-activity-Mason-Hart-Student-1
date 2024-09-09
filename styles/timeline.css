@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+}
+summary {
+    color: black;
+    font-size: x-large;
+}
+details {
+    color: aliceblue;
+    font-size: x-large;
+}

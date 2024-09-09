@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    background-color: rgb(155, 155, 155);
+}
+body {
+    background-color: gray;
+}
+div {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    background-color: rgb(155, 155, 155);
+}
+p {
+    text-align: center;
+    font-size: x-large;
+}
+div:hover {
+    opacity: .7;
+}
